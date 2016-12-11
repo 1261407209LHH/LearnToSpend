@@ -1,2 +1,2 @@
-# use_less
-超惠省的最初版本
+#The project is build for the competition in school
+###the first time to attend in the competion
